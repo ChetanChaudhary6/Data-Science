@@ -6,3 +6,5 @@ Regression,K Neighbour to predict the disease.
 
 '''CASTE WISE PLOT'''
 ![image](https://github.com/ChetanChaudhary6/Data-Science/assets/93438802/22f459fb-faf5-443b-9161-0e481c93df5e)
+#COMPARISON OF ALGORITHMS(MODEL)
+![image](https://github.com/ChetanChaudhary6/Data-Science/assets/93438802/d35df070-cd26-4e73-9f37-684b77334fef)
